@@ -1,4 +1,4 @@
-﻿namespace Conta
+﻿namespace TiposConta
 {
     public class ContaJuridica : Conta
     {
